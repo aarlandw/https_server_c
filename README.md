@@ -1,2 +1,1 @@
-# HTTPS-server-in-C
-Trying to make a HTTPS server in C
+# HTTPS server in C
